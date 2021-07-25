@@ -4,8 +4,8 @@ This Repository contains Breast Cancer Detection model where we have classified 
 
 ### Contents:
 
-- Dataset folder containing dataset used.
-        - Reference: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- Dataset folder containing dataset used. 
+  > [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 - Jupyter Notebook containing implementation of the project.
 
 ### Summary of Project:
